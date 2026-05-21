@@ -1,7 +1,10 @@
 
 # Weather
 
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/JaouherK/a489177df4f24946281bdc1b21524b13/raw/79aacf61a7e32fe2e597f3f1980df1029d54894a/weatherMetaData.json)](https://github.com/perryBunn/streamDeck-weatherPlugin/releases/tag/v2.1.3)
+![GitHub Tag](https://img.shields.io/github/v/tag/perryBunn/streamDeck-weatherPlugin?style=flat&logo=github&logoColor=000&label=%20&color=fff&link=https%3A%2F%2Fgithub.com%2FperryBunn%2FstreamDeck-weatherPlugin)
+
+
+
 
 `Weather` is a plugin that displays the weather condition as a picture image, the city name and the temperature of a given location. It is connected to multiple providers and needs an API Key to connect.
 
