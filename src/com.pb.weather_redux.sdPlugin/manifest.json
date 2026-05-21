@@ -2,7 +2,7 @@
   "Actions": [
     {
       "Icon": "resources/actionIcon",
-      "Name": "Weather",
+      "Name": "Weather Redux",
       "States": [
         {
           "Image": "resources/actionDefaultImage",
@@ -12,17 +12,18 @@
       ],
       "SupportedInMultiActions": true,
       "Tooltip": "Get current weather condition and temperature of a given city",
-      "UUID": "com.jk.weather.action"
+      "UUID": "com.pb.weather_redux.action"
     }
   ],
   "SDKVersion": 2,
-  "Author": "Jaouher Kharrat",
+  "Author": "Perry Bunn",
+  "Contributors": ["Jaouher Kharrat"],
   "CodePath": "plugin/main.html",
-  "Description": "Get current weather condition and temperature of a given city",
-  "Name": "Weather",
+  "Description": "Get current weather condition and temperature of a given city.\nForked of https://github.com/JaouherK/streamDeck-weatherPlugin",
+  "Name": "Weather Redux",
   "Icon": "resources/pluginIcon",
   "PropertyInspectorPath": "pi/main_pi.html",
-  "URL": "https://github.com/JaouherK",
+  "URL": "https://github.com/perryBunn",
   "Version": "2.1.3",
   "OS": [
     {

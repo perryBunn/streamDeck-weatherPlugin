@@ -3,3 +3,6 @@
 
 # vscode project files
 .vscode
+
+Release/*
+src/*/README.md
